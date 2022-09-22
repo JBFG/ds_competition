@@ -63,3 +63,7 @@
 분석 완성도
 * EDA/VISUALIZATION | 데이터 분석 결과를 효과적으로 시각화하였는가
 * CODE INTEGRITY/READABILITY | 코드의 무결성, 가독성, 구조화 수준은 충분한가
+
+<p align="right">
+<a href="#jb그룹-데이터-분석-경진대회">맨위로</a>
+</p>
