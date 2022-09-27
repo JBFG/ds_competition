@@ -53,3 +53,7 @@
 | WC2 | 이 \* 재, 조 \* 리, 김 \* 훈 |
 | WC3 | 김 \* 순, 정 \* 혜, 양 \* 경 |
 | WC4 | 이 \* 석, 문 \* 진, 허 \* |
+
+<p align="right">
+<a href="https://github.com/JBFG/ds_competition#jb그룹-데이터-분석-경진대회">메인 페이지로</a>
+</p>
