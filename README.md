@@ -67,7 +67,7 @@
 * CODE INTEGRITY/READABILITY | 코드의 무결성, 가독성, 구조화 수준은 충분한가
 
 ## 안내 사항
-[**분석 노트북 예제**](etc/example_notebook.ipynb)
+[**분석 노트북 예제**](etc/example_notebook.pdf)
 
 <p align="right">
 <a href="#jb그룹-데이터-분석-경진대회">맨위로</a>
