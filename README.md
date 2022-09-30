@@ -68,7 +68,7 @@
 
 ## 안내 사항
 [분석 노트북 예제](https://nbviewer.org/github/JBFG/ds_competition/blob/main/etc/example_notebook.ipynb)
-[경진대회 데이터 세트 설명](etc/데이터분석_경진대회_데이터 세트_설명.pptx)
+| [경진대회 데이터 세트 설명](etc/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%84%B8%ED%8A%B8_%EC%84%A4%EB%AA%85.pptx)
 
 <p align="right">
 <a href="#jb그룹-데이터-분석-경진대회">맨위로</a>
