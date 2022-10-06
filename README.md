@@ -70,6 +70,7 @@
 ## 안내 사항
 [분석 노트북 예제](https://nbviewer.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 | [경진대회 데이터 세트 설명](etc/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%84%B8%ED%8A%B8_%EC%84%A4%EB%AA%85.pptx)
+| [경품 신청](https://docs.google.com/spreadsheets/d/1Rx3QABHyp_yJThuGwHU-widFOnrZrhZ4CRHxg1e4doQ/)
 
 <p align="right">
 <a href="#jb그룹-데이터-분석-경진대회">맨위로</a>
