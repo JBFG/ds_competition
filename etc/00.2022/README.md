@@ -1,4 +1,4 @@
-![Data Science](images/ds.png)
+![Data Science](/images/ds.png)
 
 # JB그룹 데이터 분석 경진대회
 
