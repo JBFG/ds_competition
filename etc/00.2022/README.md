@@ -79,4 +79,4 @@
 <a href="#jb그룹-데이터-분석-경진대회">맨위로</a>
 </p>
 
-![Logo](images/f_logo_m.jpg)
+![Logo](/images/f_logo_m.jpg)
