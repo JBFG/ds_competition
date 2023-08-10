@@ -62,24 +62,6 @@ Track 2. 비즈니스 아이디어 부문 8백만 원
 참가팀이 분석한 산출물을 취합 후, github에 공개<br>
 부문별 평가 기준에 따라 예선과 본선 심사 후 시상
 
-## 심사 기준
-
-### 창의성 30
-분석 방향의 독창성
-* UNIQUENESS | 새롭고 가시적인 차별성을 지니는가
-* LOGICALITY | 문제 해결을 위한 논리 구조가 명확한가
-
-### 응용성 50
-데이터 활용성
-* DATA WRANGLING | 데이터 전처리는 잘 되었는가
-* EDA/ALGORITHM | 적절한 분석기법을 적용하였는가
-* DOCUMENTATION/PERFORMANCE | 분석에 대한 명확한 설명과 적절한 결과를 도출하였는가
-
-### 우수성 20
-분석 완성도
-* EDA/VISUALIZATION | 데이터 분석 결과를 효과적으로 시각화하였는가
-* CODE INTEGRITY/READABILITY | 코드의 무결성, 가독성, 구조화 수준은 충분한가
-
 ## 안내 사항
 [Track 1: 분석 노트북 예제](https://nbviewer.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 | Track 2: 자유형식
