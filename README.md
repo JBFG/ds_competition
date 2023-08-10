@@ -82,7 +82,8 @@ Track 2. 비즈니스 아이디어 부문 8백만 원
 * CODE INTEGRITY/READABILITY | 코드의 무결성, 가독성, 구조화 수준은 충분한가
 
 ## 안내 사항
-[분석 노트북 예제](https://nbviewer.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
+[Track 1: 분석 노트북 예제](https://nbviewer.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
+| Track 2: 자유형식
 | 경진대회 데이터 세트 설명(추후 안내 예정)
 
 각 팀의 최종 분석결과에 대해 자문교수님의 피드백 제공
