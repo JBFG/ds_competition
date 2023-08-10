@@ -8,8 +8,8 @@
 | [**안내 사항**](#안내-사항)
 | [**대회 진행현황**](2nd_competition.md)
 | [**이전대회자료**](/etc/)
-| [**Track1 안내 포스터**](/images/2023/track1.md)
-| [**Track2 안내 포스터**](/images/2023/track2.md)
+| [**Track1 포스터**](/images/2023/track1.md)
+| [**Track2 포스터**](/images/2023/track2.md)
 
 ## 분석 결과 제출 자료
 [**전북은행**](jbbk/)
