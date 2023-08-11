@@ -68,7 +68,7 @@ Track 2. 비즈니스 아이디어 부문 8백만 원
 부문별 평가 기준에 따라 예선과 본선 심사 후 시상
 
 ## 안내 사항
-[Track 1: 분석 노트북 예제](https://nbviewer.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
+Track 1: [분석 노트북 예제](https://nbviewer.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 | Track 2: 자유형식
 | 경진대회 데이터 세트 설명(추후 안내 예정)
 
